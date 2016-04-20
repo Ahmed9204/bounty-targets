@@ -260,3 +260,17 @@ au.pfinance.yahoo.com
 smallbusiness.yahoo.com
 ca.style.yahoo.com
 my.yahoo.com
+blog.itbit.com
+www.itbit.com
+itbit.com
+support.itbit.com
+itbit.desk.com
+w3.itbit.com
+api.itbit.com
+m.flickr.com
+blog.flickr.com
+flickr.com
+parkorbird.flickr.com
+zendesk.com
+www.zendesk.com
+developer.zendesk.com
