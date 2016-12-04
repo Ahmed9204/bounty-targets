@@ -1,0 +1,11 @@
+www.yelp.com
+m.yelp.com
+biz.yelp.com
+auto-api.yelp.com
+mobile-api.yelp.com
+biz-app.yelp.com
+www.yelpreservations.com
+engineeringblog.yelp.com
+yelpblog.com
+api.yelp.com
+www.yelp-support.com
