@@ -1,0 +1,3 @@
+legalrobot.com
+legalrobot-uat.com
+legalrobot.s3.amazonaws.com
