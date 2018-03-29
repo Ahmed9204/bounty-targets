@@ -1,0 +1,6 @@
+link.plaid.com
+production.plaid.com
+dashboard.plaid.com
+api.plaid.com
+cdn.plaid.com
+demo.plaid.com

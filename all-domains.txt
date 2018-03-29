@@ -15,6 +15,7 @@ api.itbit.com
 api.pinterest.com
 api.simple.com
 api.slack.com
+api.vultr.com
 app.acorns.com
 app.asana.com
 asana.com
@@ -130,6 +131,7 @@ moves-app.com
 my.simplybuilt.com
 mystatus.united.com
 my.teslamotors.com
+my.vultr.com
 my.yahoo.com
 nuon.com
 nuon.nl
@@ -274,6 +276,7 @@ www-origin.teslamotors.com
 www.usaa.com
 www.villas.com
 www.volusionpentest1.com
+www.vultr.com
 www.whatsapp.com
 www.zendesk.com
 x.jet.com

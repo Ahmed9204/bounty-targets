@@ -1,0 +1,13 @@
+pos.swipely.com
+hq.breadcrumb.com
+mossy.breadcrumb.com
+payments.breadcrumb.com
+reports.breadcrumb.com
+app.upserve.com
+ecslb.upserve.com
+cards.swipely.com
+api.breadcrumb.com
+ecslb.breadcrumb.com
+ecs-lb.breadcrumb.com
+645892349820.vulnerbug.com
+teamhelp.upserve.com
