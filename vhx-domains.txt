@@ -1,0 +1,4 @@
+vhx.tv
+ott.vimeo.com
+embed.vhx.tv
+api.vhx.tv

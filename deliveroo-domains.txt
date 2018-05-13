@@ -1,0 +1,16 @@
+deliveroo.ie
+deliveroo.it
+deliveroo.co.uk
+deliveroo.ae
+deliveroo.be
+deliveroo.com.au
+deliveroo.com.sg
+deliveroo.de
+deliveroo.es
+deliveroo.fr
+deliveroo.nl
+deliveroo.net
+deliveroo.h
+deliveroo-data.net
+deliveroo-data.io
+deliveroo-data-test.io
