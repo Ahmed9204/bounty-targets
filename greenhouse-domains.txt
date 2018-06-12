@@ -3,3 +3,6 @@ api.greenhouse.io
 boards.greenhouse.io
 www.greenhouse.io
 greenhouse.io
+onboarding.greenhouse.io
+support.greenhouse.io
+io.greenhouse.events
